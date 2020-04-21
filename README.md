@@ -1,6 +1,6 @@
-# One of the Top SEA  University Project
+# Project for One of the Top Universities in South East Asia.
 
-## Business problem :- To Predict Attrition rate of Students, Ontime Graduation, Employability from College/University.
+## Business problem :- Students' Performance and Employability Prediction through Data Mining.
 
 ### University dropout is a problem which affects universities around the world, with consequences such as reduced enrolment, reduced revenue for the university, and financial losses for the State which funds the studies, and also constitutes a social problem for students, their families, and society in general.
 
